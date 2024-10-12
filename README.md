@@ -6,3 +6,27 @@ I've added Gitpod as a third party app to the repository. This app is an IDE tha
 (CHANGES DO NOT AUTOMATICALLY COMMIT TO THE REPOSITORY). 
 Once you're done, download the file, and reupload to the GitHub repository. 
 It is NOT fully configured yet.
+
+Common languages supported by GitPod:
+
+Java
+JavaScript
+Python
+HTML
+CSS
+C++
+LaTeX
+
+Additional Languages
+
+Svelte
+Ruby
+Scala
+Julia
+Kotlin
+PHP
+.NET
+Deno
+Vue
+Dart
+R
