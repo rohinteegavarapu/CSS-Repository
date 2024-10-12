@@ -5,4 +5,4 @@ Use this repository if there's anything (probably code) you want the board or an
 I've added Gitpod as a third party app to the repository. This app is an IDE that has access to all files within this repository, where you can edit said files.
 (CHANGES DO NOT AUTOMATICALLY COMMIT TO THE REPOSITORY). 
 Once you're done, download the file, and reupload to the GitHub repository. 
-It is NOT fully configured.
+It is NOT fully configured yet.
