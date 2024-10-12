@@ -7,7 +7,7 @@ I've added Gitpod as a third party app to the repository. This app is an IDE tha
 Once you're done, download the file, and reupload to the GitHub repository. 
 It is NOT fully configured yet.
 
-Common languages supported by GitPod:
+ # Languages supported by GitPod:
 
 Java
 
@@ -24,7 +24,7 @@ C++
 LaTeX
 
 
-Additional Languages
+Additional Languages:
 
 
 Svelte
