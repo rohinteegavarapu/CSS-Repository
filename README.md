@@ -10,23 +10,41 @@ It is NOT fully configured yet.
 Common languages supported by GitPod:
 
 Java
+
 JavaScript
+
 Python
+
 HTML
+
 CSS
+
 C++
+
 LaTeX
+
 
 Additional Languages
 
+
 Svelte
+
 Ruby
+
 Scala
+
 Julia
+
 Kotlin
+
 PHP
+
 .NET
+
 Deno
+
 Vue
+
 Dart
+
 R
